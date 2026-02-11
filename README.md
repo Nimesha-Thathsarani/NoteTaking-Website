@@ -1,7 +1,24 @@
 
-![home page](https://github.com/user-attachments/assets/00f29809-5aff-4c4a-b786-8773046b424a)
-![add note page](https://github.com/user-attachments/assets/8cd69c2d-6946-4474-a933-9a8b6f974dec)
-![note details](https://github.com/user-attachments/assets/3c2864db-8d30-4421-8760-a90bbd149891)
+## 📸 Project Gallery
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td colspan="2" align="center">
+      <p><b>🏠 Home Page - Dashboard View</b></p>
+      <img src="https://github.com/user-attachments/assets/00f29809-5aff-4c4a-b786-8773046b424a" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <p><b>📄 Note Details View</b></p>
+      <img src="https://github.com/user-attachments/assets/3c2864db-8d30-4421-8760-a90bbd149891" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <p><b>➕ Add New Note</b></p>
+      <img src="https://github.com/user-attachments/assets/8cd69c2d-6946-4474-a933-9a8b6f974dec" width="100%" />
+    </td>
+  </tr>
+</table>
 
 # NotePulse – MERN Stack Note-Taking Application
 
