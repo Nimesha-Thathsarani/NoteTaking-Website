@@ -1,4 +1,8 @@
-<img width="1706" height="860" alt="image" src="https://github.com/user-attachments/assets/6b1f73f5-1d74-4141-8449-e0f1dbf592d4" />
+
+![home page](https://github.com/user-attachments/assets/00f29809-5aff-4c4a-b786-8773046b424a)
+![add note page](https://github.com/user-attachments/assets/8cd69c2d-6946-4474-a933-9a8b6f974dec)
+![note details](https://github.com/user-attachments/assets/3c2864db-8d30-4421-8760-a90bbd149891)
+
 # NotePulse – MERN Stack Note-Taking Application
 
 A full-stack note management application built using the **MERN stack** with secure API practices and a modern responsive UI.
