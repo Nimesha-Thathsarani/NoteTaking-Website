@@ -11,7 +11,8 @@ const NotesNotFound = () => {
       <p className="text-base-content/70">
         Ready to organize your thoughts? Create your first note to get started on your journey.
       </p>
-      <Link to="/create" className="btn btn-primary">
+      <Link to="/create" 
+      className="btn btn-outline border-2 border-[#00FF9D] text-[#00FF9D] hover:bg-[#00FF9D] hover:text-black">
         Create Your First Note
       </Link>
     </div>
