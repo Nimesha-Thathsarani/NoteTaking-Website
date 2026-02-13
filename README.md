@@ -8,6 +8,13 @@
       <img src="https://github.com/user-attachments/assets/00f29809-5aff-4c4a-b786-8773046b424a" width="100%" />
     </td>
   </tr>
+  <!-- New row: Dashboard without notes -->
+  <tr>
+    <td colspan="2" align="center">
+      <p><b>🏠 Dashboard Without Notes</b></p>
+      <img src="https://github.com/user-attachments/assets/dd66822e-ebd5-43ed-9502-0ded9bc1a990" width="100%" />
+    </td>
+  </tr>
   <tr>
     <td width="50%" align="center">
       <p><b>📄 Note Details View</b></p>
@@ -19,6 +26,7 @@
     </td>
   </tr>
 </table>
+
 
 # NotePulse – MERN Stack Note-Taking Application
 
