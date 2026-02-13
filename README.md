@@ -5,7 +5,7 @@
   <tr>
     <td colspan="2" align="center">
       <p><b>🏠 Home Page - Dashboard View</b></p>
-      <img src="https://github.com/user-attachments/assets/00f29809-5aff-4c4a-b786-8773046b424a" width="100%" />
+      <img src="https://github.com/user-attachments/assets/9644c93f-cf3d-4fdd-98d4-5f89a0d6180b" width="100%" />
     </td>
   </tr>
   <!-- New row: Dashboard without notes -->
